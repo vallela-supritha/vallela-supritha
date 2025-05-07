@@ -4,8 +4,8 @@
   <a href="https://supritha735.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-supritha735.netlify.app-blue?style=for-the-badge">
   </a>
-  <a href="mailto:vallellasupritha@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-vallellasupritha@gmail.com-red?style=for-the-badge">
+  <a href="mailto:suprithareddy735@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-suprithareddy735@gmail.com-red?style=for-the-badge">
   </a>
 </p>
 
